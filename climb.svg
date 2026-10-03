@@ -393,6 +393,7 @@
 <text x="906.0" y="124" font-size="10" fill="#627c70" font-weight="400" >Oct</text>
 <g transform="translate(906.00 241.00) rotate(-6)"><title>2026-10-01: 2 contributions</title><path d="M -6 0 Q -6 -6 0 -5 Q 9 -5 6 2 Q 2 8 -6 0Z" fill="#eeb39b"/><path d="M -3 -2 Q 0 -4 3 -2" fill="none" stroke="#fff" stroke-opacity=".4" stroke-width="1.2"/><circle cx="1" cy="0" r="1" fill="#24483e" opacity=".45"/></g>
 <circle cx="906.00" cy="265.00" r="1.8" fill="#cad9cf"><title>2026-10-02: 0 contributions</title></circle>
+<circle cx="906.00" cy="289.00" r="1.8" fill="#cad9cf"><title>2026-10-03: 0 contributions</title></circle>
 <path d="M 157.62 265.00 L 206.42 265.00" fill="none" stroke="#63bfa1" stroke-width="1.6" stroke-dasharray="3 5" opacity=".55"/>
 <g class="motion"><animate attributeName="opacity" values="1;0;0;1" keyTimes="0;.93;.999;1" calcMode="discrete" dur="8.00s" repeatCount="indefinite"/>
 <g transform="translate(152.62 285.00)"><animateTransform attributeName="transform" type="translate" values="152.62 285.00;152.62 285.00;201.42 285.00;201.42 285.00;152.62 285.00" keyTimes="0.000000;0.310000;0.620000;0.930000;1.000000" dur="8.00s" repeatCount="indefinite"/>
@@ -406,5 +407,5 @@
 <path d="M 157.62 284.00 Q 163.62 275.00 157.62 265.00" fill="none" stroke="#dca88c" stroke-width="3.5" stroke-linecap="round"><animate attributeName="d" values="M 157.62 284.00 Q 163.62 275.00 157.62 265.00;M 157.62 284.00 Q 163.62 275.00 206.42 265.00;M 206.42 284.00 Q 212.42 275.00 206.42 265.00;M 206.42 284.00 Q 212.42 275.00 206.42 265.00;M 157.62 284.00 Q 163.62 275.00 157.62 265.00" keyTimes="0.000000;0.310000;0.620000;0.930000;1.000000" dur="8.00s" repeatCount="indefinite" calcMode="linear"/></path></g>
 <text x="34" y="361" font-size="12" fill="#627c70" font-weight="400" >equal-size holds · active contribution days</text>
 <text x="926" y="361" font-size="12" fill="#627c70" font-weight="400" text-anchor="end">2 holds on this route</text>
-<text x="34" y="384" font-size="10" fill="#627c70" font-weight="400" >2025-09-28 → 2026-10-02 · public activity visible to the workflow token</text>
+<text x="34" y="384" font-size="10" fill="#627c70" font-weight="400" >2025-09-28 → 2026-10-03 · public activity visible to the workflow token</text>
 </svg>
